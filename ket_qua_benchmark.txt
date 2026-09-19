@@ -1,0 +1,2161 @@
+================================================================================
+CP6 BENCHMARK - SENTENCE-BASED CHUNKING
+================================================================================
+
+Embedding backend: MockEmbedder
+Chunking: SentenceChunker
+max_sentences_per_chunk: 3
+Total chunks: 89
+
+================================================================================
+QUERY 1: Quy định sử dụng thư viện như thế nào?
+EXPECTED DOC: stu-library-usage
+ANSWER MARKER: không ăn uống trong thư viện
+================================================================================
+
+[BENCHMARK] WITHOUT METADATA FILTER
+#1 | score=0.2379 | id=stu-library-regulation#0 | doc_id=stu-library-regulation
+CONTENT: # Quy che to chuc va hoat dong cua Thu vien STU
+
+Thư viện Đại học Công nghệ Sài Gòn - STU
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thanh chức năng
+
+
+
+
+
+
+
+
+
+CSDL Trực Tuyến
+CSDL IEEE
+
+CSDL ProQuest
+
+CSDL Springer
+
+CSDL VitalSource
+
+CSDL Wips Global
+
+Tailieu.vn (thuvienso)
+
+Tạp chí chuyên ngành KHCN
+
+CSDL Bentio
+
+Giới thiệu
+Giới thiệu về Thư viện
+
+Chức năng - Nghiệp vụ
+
+Nguồn lực thông tin
+
+Nhân sự
+
+Tài liệu số (tài liệu nội sinh)
+
+Thư viện truyền thống
+
+Tin tức
+
+Tra cứu tài liệu
+Tra cứu Thư viện Truyền Thống
+
+Tra cứu Thư viện Số (TL nội sinh)
+
+Góp ý
+
+Nghiệp vụ
+Nghiệp vụ thư viện
+
+Văn bản quy phạm pháp luật
+
+Bổ sung tài liệu
+
+Sản phẩm - Dịch vụ
+Dich vụ mượn về nhà
+
+Phòng đọc mở
+
+Tư vấn hỗ trợ bạn đọc
+
+Đào tạo người dùng tin
+
+Trợ giúp
+Trợ Giúp Sử Dụng Thư Viện
+
+Hướng Dẫn Tra Cứu CSDL
+
+Câu Hỏi Thường Gặp
+
+Đề Nghi Bổ Sung Tài Liệu
+
+Liên hệ
+
+Đăng nhập
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thứ bảy, Ngày: 19/09/2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trang chủ
+
+
+
+Nghiệp vụ thư viện
+
+
+
+Quy chế Thư viện
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tin tức
+
+
+
+
+
+
+
+
+
+
+
+
+Tin hoạt động
+
+Tin thông báo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dòng sự kiện
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Thông báo lịch hoạt động của Thư viện trong thời gian hè 2026
+
+Giới thiệu sách về Bác Hồ
+
+Chào mừng ngày sách và Văn hóa đọc Việt Nam 2026
+
+Thông báo thời gian hoạt động của thư viện dịp hè năm 2025
+
+Hưởng ứng ngày sách Việt Nam 21-4
+
+Hoạt động hưởng ứng ngày sách Việt Nam 21/04/2023
+
+Tài khoản xem toàn văn các tài liệu số tailieu.vn
+
+Thông báo về buổi giới thiệu chuyên đề
+
+STU Tổ chức chương trình đồng diễn Vovinam và Giải chạy STU chào mừng 25 năm thành lập trường. Đại học Cambridge mở cửa miễn phí thư viện sách trực tuyến cho toàn thế giới
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cơ sở Dữ liệu trực tuyến
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Liên kết website
+
+
+
+
+
+
+
+
+
+--- Chọn ---
+
+
+
+Cơ sở dữ liệu quốc gia về pháp luậtCSDL StinetHệ thống văn bảnHệ thống mục lục trực tuyến - Lên chi hội thư viện Việt NamThư viện Quốc gia Việt NamTrung tâm TTTV Đại học Quốc gia Hà NộiThư viện Đại học Quốc gia Tp.HCMThư viện số trường ĐHSP Kỹ thuật Tp.HCMCổng thông tin điện tử pháp điểnTrung tâm TT&TV trường ĐHSP Hà Nội 1Tạp chí Tòa án Nhân dânTạp chí luật sư Việt NamTạp chí kiểm sát
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thống kê truy cập
+
+
+
+
+
+
+
+
+
+
+
+
+
+5.039.191
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tháng 1
+
+Tháng 2
+
+Tháng 3
+
+Tháng 4
+
+Tháng 5
+
+Tháng 6
+
+Tháng 7
+
+Tháng 8
+
+Tháng 9
+
+Tháng 10
+
+Tháng 11
+
+Tháng 12
+
+
+
+
+
+
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+2023
+
+2024
+
+2025
+
+2026
+
+
+
+:
+
+112.392
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quy chế Thư viện
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BỘ GIÁO DỤC VÀ ĐÀO TẠO
+
+
+
+
+
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ SÀI GÒN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+
+
+
+
+Độc lập - Tự do - Hạnh phúc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+QUY CHẾ
+
+
+
+
+
+Tổ chức và hoạt động của Thư viện Trường Đại học Công nghệ Sài Gòn
+
+
+
+
+
+(Ban hành kèm theo Quyết định số 212 /QĐ-DSG-TV, ngày 09 tháng 12 năm 2024 )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chương I
+
+
+
+
+
+NHỮNG QUY ĐỊNH CHUNG
+
+
+
+
+
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+
+
+
+
+
+1.
+#2 | score=0.2301 | id=stu-library-usage#15 | doc_id=stu-library-usage
+CONTENT: Đối với bạn đọc là sinh viên, học viên: nếu muốn mượn về nhà phải đăng ký làm thẻ mượn sách và đóng tiền ký quỹ theo qui định (50.000 đồng/khóa học). a. Số lượng tài liệu mượn tối đa trong cùng một thời điểm là 02 cuốn.
+#3 | score=0.2266 | id=stu-scholarship-2026#6 | doc_id=stu-scholarship-2026
+CONTENT: 💡 LỢI ÍCH KHI NHẬN HỌC BỔNG TẠI STU
+
+
+
+
+
+
+
+
+
+
+Giảm tối đa chi phí học tập ngay từ năm đầu tiên. Cơ hội nhận học bổng dài hạn lên đến 04 năm. Không cần làm hồ sơ riêng – xét tự động dựa trên kết quả trúng tuyển.
+Score: 1/2 | Gold rank: 2 | Answer marker: NO
+
+================================================================================
+QUERY 2: Sinh viên được mượn tài liệu trong thư viện trong thời gian bao lâu?
+EXPECTED DOC: stu-library-usage
+ANSWER MARKER: gia hạn thêm 07 ngày
+================================================================================
+
+[BENCHMARK] WITHOUT METADATA FILTER
+#1 | score=0.3442 | id=university-library-rules#0 | doc_id=university-library-rules
+CONTENT: # Noi quy thu vien Truong Dai hoc Kinh te Dai hoc Hue
+
+Nội quy thư viện
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Đăng nhập
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trang chủ
+
+Giới thiệu
+
+Giới thiệu chung
+
+Chức năng nhiệm vụ
+
+Tài nguyên thông tin
+
+Cơ cấu tổ chức
+
+Nội quy thư viện
+
+Vị trí và Thời gian phục vụ
+
+Tài nguyên
+
+Tài nguyên điện tử
+
+Tài nguyên nội sinh
+
+Tài liệu giấy
+
+Thư mục Tín chỉ học liệu
+
+CSDL Science Direct
+
+Proquest Central
+
+Tin Tức
+
+Tin giáo dục
+
+Thông tin độc giả
+
+HƯỚNG DẪN
+
+Hướng dẫn tra cứu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trang chủ
+
+
+
+/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            ĐẠI HỌC HUẾ                          CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+
+
+
+
+TRƯỜNG ĐẠI HỌC KINH
+
+TẾ                       Độc lập
+
+-Tự do – Hạnh phúc
+
+
+
+
+
+                                                                                                         Thừa
+
+Thiên Huế, ngày  12  tháng 03 năm 2020
+
+
+
+
+
+NỘI QUY THƯ VIỆN
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Điều 1. Quy định về thẻ và tài khoản sử dụng Thư viện
+
+
+
+
+
+1. Bạn
+
+đọc được sử dụng một trong hai loại thẻ sau:
+
+
+
+
+
+-
+
+Thẻ sinh viên/học viên cao
+
+học/nghiên cứu sinh do các đơn vị đào tạo trong Nhà trường cấp cho
+
+người học có tích hợp chức năng sử dụng thư viện (Thẻ đa năng).
+#2 | score=0.2741 | id=stu-library-regulation#22 | doc_id=stu-library-regulation
+CONTENT: - Các khoản tài trợ, quà biếu, tặng của các tổ chức, cá nhân trong và ngoài nước theo quy định của pháp luật. 2. Kinh phí chi cho hoạt động Thư viện
+
+
+
+
+
+a.
+#3 | score=0.2416 | id=stu-tuition-2026#1 | doc_id=stu-tuition-2026
+CONTENT: 23.755.000 đồng/học kỳ (47.510.000 đồng/năm): ngành Kiến trúc. 24.075.000 đồng/học kỳ (48.150.000 đồng/năm): ngành Du lịch. 26.475.000 đồng/học kỳ (52.950.000 đồng/năm): ngành Thiết kế công nghiệp và Công nghệ thực phẩm.
+Score: 0/2 | Gold rank: None | Answer marker: NO
+
+================================================================================
+QUERY 3: Chính sách học bổng tuyển sinh năm 2026 của STU có những mức nào?
+EXPECTED DOC: stu-scholarship-2026
+ANSWER MARKER: 50% học phí 04 năm
+================================================================================
+
+[A] WITHOUT METADATA FILTER
+#1 | score=0.2828 | id=stu-scholarship-2026#3 | doc_id=stu-scholarship-2026
+CONTENT: 2. HỌC BỔNG TÀI NĂNG – 50% HỌC PHÍ 04 NĂM
+
+
+
+
+
+Dành cho thí sinh trúng tuyển ĐỢT XÉT TUYỂN THỨ NHẤT
+
+
+
+
+
+
+
+
+
+
+Số lượng: 80 suất / 20 ngành (01 suất/phương thức/ngành)
+
+
+
+
+
+
+
+
+
+Điều kiện điểm tương tự mức 100% (học bạ ≥25, THPT ≥23, ĐGNL ≥900)
+
+
+
+
+
+
+
+
+
+Duy trì với điều kiện GPA ≥ 7.0 và không môn không đạt mỗi học kỳ. 3.
+#2 | score=0.2626 | id=stu-library-usage#13 | doc_id=stu-library-usage
+CONTENT: 4. Không được cắt xén, xé, viết, vẽ, bôi bẩn tài liệu. 5.
+#3 | score=0.2181 | id=stu-library-usage#25 | doc_id=stu-library-usage
+CONTENT: Chương IV
+
+
+
+
+
+ĐIỀU KHOẢN THI HÀNH
+
+
+
+
+
+Điều 11. Tổ chức thực hiện
+
+
+
+
+
+Cán bộ, nhân viên Thư viện có trách nhiệm hướng dẫn bạn đọc thực hiện tốt quy định này. Cán bộ, giảng viên, nhân viên, sinh viên, học viên có trách nhiệm thực hiện quyết định này.
+Score A: 2/2 | Gold rank: 1 | Answer marker: YES
+
+[B] WITH METADATA FILTER: {'audience': 'student'}
+#1 | score=0.2828 | id=stu-scholarship-2026#3 | doc_id=stu-scholarship-2026
+CONTENT: 2. HỌC BỔNG TÀI NĂNG – 50% HỌC PHÍ 04 NĂM
+
+
+
+
+
+Dành cho thí sinh trúng tuyển ĐỢT XÉT TUYỂN THỨ NHẤT
+
+
+
+
+
+
+
+
+
+
+Số lượng: 80 suất / 20 ngành (01 suất/phương thức/ngành)
+
+
+
+
+
+
+
+
+
+Điều kiện điểm tương tự mức 100% (học bạ ≥25, THPT ≥23, ĐGNL ≥900)
+
+
+
+
+
+
+
+
+
+Duy trì với điều kiện GPA ≥ 7.0 và không môn không đạt mỗi học kỳ. 3.
+#2 | score=0.1186 | id=stu-tuition-2026#3 | doc_id=stu-tuition-2026
+CONTENT: Lộ trình tăng học phí trung bình 5-10% mỗi năm. Thí sinh và phụ huynh nên tính toán tổng chi phí cho cả khóa học, thay vì chỉ nhìn vào mức học phí học kỳ đầu, để chủ động kế hoạch tài chính lâu dài. Học phí đi cùng điều kiện học tập thực tế
+
+STU đầu tư hệ thống hơn 74 phòng thí nghiệm, phòng thực hành và xưởng thực tập, cùng mạng lưới hơn 300 doanh nghiệp đối tác để sinh viên có cơ hội thực tập, kiến tập ngay trong quá trình học.
+#3 | score=0.1077 | id=stu-tuition-2026#5 | doc_id=stu-tuition-2026
+CONTENT: –
+
+Thông tin liên hệ Trường Đại học Công nghệ Sài Gòn:
+
+Địa chỉ: 180 Cao Lỗ, phường Chánh Hưng, TP. Hồ Chí Minh
+
+Điện thoại: (028) 38.505.520 – 115; 116
+
+Hotline: 0902.992.306
+
+
+
+
+
+
+PrevTrướcCẩm nang chọn ngành xét tuyển bổ sung trường Đại học Công nghệ Sài Gòn (STU) năm 2026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SauHồ sơ nhập học STU 2026 cần chuẩn bị những gì?Next
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Playlist
+
+
+
+
+
+10 Videos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STU Hành Trình Gần 30 Năm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Một ngày làm sinh viên STU” trên sóng HTV9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ngành Tài chính - Ngân hàng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ngành Logistics & Quản lý Chuỗi Cung Ứng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ngành Kỹ thuật Xây dựng & Quản lý Xây dựng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ngành Quản trị kinh doanh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ngành Công nghệ Kỹ thuật Cơ khí
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ngành Công nghệ Kỹ thuật Cơ điện tử
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ngành Đảm bảo chất lượng & ATVSTP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ngành Công nghệ Thực phẩm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scroll to Top
+Score B: 2/2 | Gold rank: 1 | Answer marker: YES
+A/B identical Top-3: NO
+
+================================================================================
+QUERY 4: Học phí đào tạo khóa 2026 tại STU là bao nhiêu?
+EXPECTED DOC: stu-tuition-2026
+ANSWER MARKER: 21.025.000 đồng/học kỳ
+================================================================================
+
+[A] WITHOUT METADATA FILTER
+#1 | score=0.3026 | id=stu-scholarship-2026#8 | doc_id=stu-scholarship-2026
+CONTENT: Không bao gồm học phí các môn học lại, cải thiện điểm hay học kỳ hè. Chấp hành tốt nội quy, quy chế và đóng học phí đúng hạn. 🚀 CƠ HỘI CHO TÂN SINH VIÊN 2026
+
+
+
+
+
+Với chính sách học bổng đa dạng, giá trị lớn và dễ tiếp cận, Trường Đại học Công nghệ Sài Gòn không chỉ là nơi đào tạo chất lượng mà còn là môi trường nuôi dưỡng tài năng, khuyến khích sự nỗ lực ngay từ cánh cửa đầu tiên.
+#2 | score=0.2542 | id=stu-scholarship-2026#4 | doc_id=stu-scholarship-2026
+CONTENT: HỌC BỔNG THỦ KHOA NGÀNH – 50% HỌC PHÍ NĂM THỨ NHẤT
+
+
+
+
+
+Dành cho thí sinh có điểm xét tuyển cao nhất mỗi ngành theo từng phương thức
+
+
+
+
+
+
+
+
+
+
+Số lượng: 80 suất / 20 ngành (01 suất/phương thức/ngành)
+
+
+
+
+
+
+
+
+
+Điều kiện điểm tối thiểu:
+
+
+
+
+
+
+
+
+
+
+Học bạ: ≥ 24 điểm
+
+
+
+
+
+
+
+
+
+Tốt nghiệp THPT: ≥ 22 điểm
+
+
+
+
+
+
+
+
+
+Đánh giá năng lực: ≥ 850 điểm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Công nhận đồng hạng nếu cùng điểm thủ khoa. 4. HỌC BỔNG KHUYẾN KHÍCH – 20% HỌC PHÍ HỌC KỲ 1 NĂM THỨ NHẤT
+
+
+
+
+
+
+
+
+
+
+Số lượng: 100 suất / 20 ngành (tối đa 05 suất/ngành)
+
+
+
+
+
+
+
+
+
+Điều kiện: Trúng tuyển đợt 1, hoàn thành nhập học và đóng học phí sớm nhất.
+#3 | score=0.2335 | id=stu-library-regulation#2 | doc_id=stu-library-regulation
+CONTENT: Điều 2. Tên gọi của thư viện
+
+
+
+
+
+Thư viện Trường Đại học Công nghệ Sài Gòn. Điều 3.
+Score A: 0/2 | Gold rank: None | Answer marker: NO
+
+[B] WITH METADATA FILTER: {'audience': 'student'}
+#1 | score=0.3026 | id=stu-scholarship-2026#8 | doc_id=stu-scholarship-2026
+CONTENT: Không bao gồm học phí các môn học lại, cải thiện điểm hay học kỳ hè. Chấp hành tốt nội quy, quy chế và đóng học phí đúng hạn. 🚀 CƠ HỘI CHO TÂN SINH VIÊN 2026
+
+
+
+
+
+Với chính sách học bổng đa dạng, giá trị lớn và dễ tiếp cận, Trường Đại học Công nghệ Sài Gòn không chỉ là nơi đào tạo chất lượng mà còn là môi trường nuôi dưỡng tài năng, khuyến khích sự nỗ lực ngay từ cánh cửa đầu tiên.
+#2 | score=0.2542 | id=stu-scholarship-2026#4 | doc_id=stu-scholarship-2026
+CONTENT: HỌC BỔNG THỦ KHOA NGÀNH – 50% HỌC PHÍ NĂM THỨ NHẤT
+
+
+
+
+
+Dành cho thí sinh có điểm xét tuyển cao nhất mỗi ngành theo từng phương thức
+
+
+
+
+
+
+
+
+
+
+Số lượng: 80 suất / 20 ngành (01 suất/phương thức/ngành)
+
+
+
+
+
+
+
+
+
+Điều kiện điểm tối thiểu:
+
+
+
+
+
+
+
+
+
+
+Học bạ: ≥ 24 điểm
+
+
+
+
+
+
+
+
+
+Tốt nghiệp THPT: ≥ 22 điểm
+
+
+
+
+
+
+
+
+
+Đánh giá năng lực: ≥ 850 điểm
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Công nhận đồng hạng nếu cùng điểm thủ khoa. 4. HỌC BỔNG KHUYẾN KHÍCH – 20% HỌC PHÍ HỌC KỲ 1 NĂM THỨ NHẤT
+
+
+
+
+
+
+
+
+
+
+Số lượng: 100 suất / 20 ngành (tối đa 05 suất/ngành)
+
+
+
+
+
+
+
+
+
+Điều kiện: Trúng tuyển đợt 1, hoàn thành nhập học và đóng học phí sớm nhất.
+#3 | score=0.1595 | id=stu-scholarship-2026#3 | doc_id=stu-scholarship-2026
+CONTENT: 2. HỌC BỔNG TÀI NĂNG – 50% HỌC PHÍ 04 NĂM
+
+
+
+
+
+Dành cho thí sinh trúng tuyển ĐỢT XÉT TUYỂN THỨ NHẤT
+
+
+
+
+
+
+
+
+
+
+Số lượng: 80 suất / 20 ngành (01 suất/phương thức/ngành)
+
+
+
+
+
+
+
+
+
+Điều kiện điểm tương tự mức 100% (học bạ ≥25, THPT ≥23, ĐGNL ≥900)
+
+
+
+
+
+
+
+
+
+Duy trì với điều kiện GPA ≥ 7.0 và không môn không đạt mỗi học kỳ. 3.
+Score B: 0/2 | Gold rank: None | Answer marker: NO
+A/B identical Top-3: NO
+
+================================================================================
+QUERY 5: Sinh viên cần tuân thủ những quy định nào khi sử dụng thư viện?
+EXPECTED DOC: stu-library-usage
+ANSWER MARKER: không ăn uống trong thư viện
+================================================================================
+
+[BENCHMARK] WITHOUT METADATA FILTER
+#1 | score=0.3412 | id=university-library-rules#1 | doc_id=university-library-rules
+CONTENT: -
+
+Thẻ Thư viện do Thư viện cấp cho
+
+đối tượng bạn đọc không có thẻ đa năng. 2. Không
+
+cho người khác mượn thẻ, sử dụng chung thẻ, sử dụng thẻ của người khác, mất
+
+thẻ báo ngay cho Thư viện khóa tài khoản.
+#2 | score=0.2701 | id=stu-library-usage#24 | doc_id=stu-library-usage
+CONTENT: Bồi thường thiệt hại gấp 2 lần giá trị tài liệu bị xé hoặc bị lấy cắp. Sách mượn trả quá hạn: phạt tiền mỗi ngày quá hạn: 500đ. Làm mất sách: mua sách mới để thay thế.
+#3 | score=0.2325 | id=stu-library-regulation#16 | doc_id=stu-library-regulation
+CONTENT: Các hoạt động của Thư viện
+
+
+
+
+
+1. Hoạt động phát triển Thư viện; hoạt động về chuyên môn, nghiệp vụ trong và ngoài Thư viện như: bổ sung, sưu tầm, lựa chọn và xử lý tài liệu; tổ chức các hội nghị, hội thảo khoa học về lĩnh vực Thư viện. 2.
+Score: 1/2 | Gold rank: 2 | Answer marker: NO
+
+================================================================================
+BENCHMARK SUMMARY
+================================================================================
+Total queries: 5
+Total score: 4/10
+Score: 40.0%
