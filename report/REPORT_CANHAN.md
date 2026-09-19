@@ -101,15 +101,25 @@ Vượt qua bộ kiểm thử là điều kiện tính điểm phần này.
 
 Chạy **5 câu hỏi đánh giá của nhóm** trên mã nguồn cá nhân của bạn trong gói `src`. **5 câu hỏi này phải trùng với các thành viên cùng nhóm** (xem `REPORT_NHOM.md`).
 
-| # | Câu hỏi (Query) | Top-1 Chunk truy xuất được (tóm tắt) | Điểm Score | Có liên quan không? (Relevant) | Câu trả lời của Agent (tóm tắt) |
-|---|-------|--------------------------------|-------|-----------|------------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| # | Câu hỏi (Query) | Top-1 Chunk truy xuất được (tóm tắt) | Chunk liên quan trong top-3? |
+|---|---|---|---|
+| 1 | Quy định sử dụng thư viện như thế nào? | `university-library-rules#8` | Có — `stu-library-usage#15` |
+| 2 | Sinh viên được mượn tài liệu trong thư viện trong thời gian bao lâu? | `stu-library-regulation#22` | Không |
+| 3 | Chính sách học bổng tuyển sinh năm 2026 của STU có những mức nào? | `stu-scholarship-2026#3` | Có — đúng tài liệu ở Top-1 |
+| 4 | Học phí đào tạo khóa 2026 tại STU là bao nhiêu? | `stu-scholarship-2026#8` | Không |
+| 5 | Sinh viên cần tuân thủ những quy định nào khi sử dụng thư viện? | `stu-library-usage#24` | Có — đúng tài liệu ở Top-1 |
 
-**Bao nhiêu câu hỏi trả về chunk có liên quan trong top-3?** __ / 5
+**Hit@3: 3 / 5 = 60.0%**
+
+**Chiến lược sử dụng:** Sentence-based chunking
+
+**Cấu hình:** `max_sentences_per_chunk = 3`
+
+**Corpus:** 5 tài liệu Markdown
+
+**Tổng số chunks:** 89
+
+**Bao nhiêu câu hỏi trả về chunk có liên quan trong top-3?** 3 / 5
 
 **Điều hay nhất tôi học được từ thành viên khác / nhóm khác (qua demo):**
 > *Viết 2-3 câu:*
